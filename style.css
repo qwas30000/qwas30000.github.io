@@ -313,6 +313,15 @@ body::before {
 
 #btn-company:hover .btn-icon { background: rgba(124, 106, 255, 0.18); }
 
+#btn-instagram-photo:hover .btn-icon { background: rgba(228, 64, 95, 0.12); }
+#btn-instagram-photo:hover .btn-icon svg { color: #e4405f; }
+
+#btn-tiktok:hover .btn-icon { background: rgba(0, 0, 0, 0.1); }
+#btn-tiktok:hover .btn-icon svg { color: #010101; }
+
+#btn-tiktok-photo:hover .btn-icon { background: rgba(0, 0, 0, 0.1); }
+#btn-tiktok-photo:hover .btn-icon svg { color: #010101; }
+
 /* ===== RESUME BUTTON ===== */
 .resume-section {
   width: 100%;
